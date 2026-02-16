@@ -1,0 +1,25 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Chart bars representing data enrichment -->
+  <rect x="30" y="120" width="25" height="60" fill="#3b82f6" opacity="0.8" rx="4"/>
+  <rect x="65" y="100" width="25" height="80" fill="#8b5cf6" opacity="0.8" rx="4"/>
+  <rect x="100" y="80" width="25" height="100" fill="#10b981" opacity="0.8" rx="4"/>
+  <rect x="135" y="90" width="25" height="90" fill="#f59e0b" opacity="0.8" rx="4"/>
+  
+  <!-- Target/Bullseye representing targeting -->
+  <circle cx="160" cy="40" r="25" stroke="#3b82f6" stroke-width="3" fill="none" opacity="0.6"/>
+  <circle cx="160" cy="40" r="18" stroke="#8b5cf6" stroke-width="2" fill="none" opacity="0.6"/>
+  <circle cx="160" cy="40" r="11" fill="#3b82f6" opacity="0.7"/>
+  
+  <!-- Data points/indicators -->
+  <circle cx="40" cy="50" r="6" fill="#10b981"/>
+  <circle cx="55" cy="45" r="6" fill="#f59e0b"/>
+  <circle cx="70" cy="55" r="6" fill="#3b82f6"/>
+  <circle cx="85" cy="50" r="6" fill="#8b5cf6"/>
+  
+  <!-- Arrow pointing up (growth) -->
+  <path d="M110 150 L120 140 L115 140 L115 130 L105 130 L105 140 L100 140 Z" fill="#10b981" opacity="0.8"/>
+  
+  <!-- Sparkle/star representing insights -->
+  <path d="M170 120 L172 125 L177 125 L173 128 L175 133 L170 130 L165 133 L167 128 L163 125 L168 125 Z" fill="#f59e0b" opacity="0.7"/>
+  <path d="M25 35 L26 38 L29 38 L27 40 L28 43 L25 41 L22 43 L23 40 L21 38 L24 38 Z" fill="#8b5cf6" opacity="0.7"/>
+</svg>
